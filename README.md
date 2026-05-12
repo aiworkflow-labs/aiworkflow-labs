@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F72D&size=35&center=true&vCenter=true&width=1000&lines=AI+Workflow+Automation+Engineer;OpenAI+API+Developer;Zapier+%7C+Make.com+%7C+Python;Business+Automation+Specialist" />
+</p>
+
 # 👋 Hi, I'm Jeff
 
 ## AI Workflow Automation Engineer
@@ -12,6 +16,21 @@ I build scalable AI automation systems using:
 - API Integrations
 - Webhooks
 - Business Systems
+
+## ⚡ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,github,vscode,git" />
+</p>
+
+### 🛠 Automation Tools
+- OpenAI APIs
+- ChatGPT
+- Zapier
+- Make.com
+- Webhooks
+- API Integrations
+- Business Automation
 
 ---
 

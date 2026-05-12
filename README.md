@@ -1,16 +1,75 @@
-## Hi there 👋
+# 👋 Hi, I'm Jeff
 
-<!--
-**aiworkflow-labs/aiworkflow-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Workflow Automation Engineer
 
-Here are some ideas to get you started:
+I build scalable AI automation systems using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- OpenAI APIs
+- ChatGPT Integrations
+- Zapier Automations
+- Make.com Workflows
+- Python Automation
+- API Integrations
+- Webhooks
+- Business Systems
+
+---
+
+## 🚀 What I Build
+
+✅ AI Workflow Automation  
+✅ Business Process Automation  
+✅ ChatGPT API Integrations  
+✅ CRM Automations  
+✅ Google Sheets Automation  
+✅ Slack & Discord Integrations  
+✅ Lead Generation Systems  
+✅ AI Agents & API Workflows
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- OpenAI APIs
+- Zapier
+- Make.com
+- APIs & Webhooks
+- Docker
+- Google Sheets
+- Airtable
+- Notion
+- Slack
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AI Workflow Automation
+Automation systems using OpenAI APIs, Python, and business integrations.
+
+### 🔹 Business Automation Systems
+Custom workflow systems for productivity and operations.
+
+### 🔹 Zapier Integrations
+Automation workflows using APIs and webhooks.
+
+### 🔹 OpenAI API Projects
+AI tools, agents, and ChatGPT integrations.
+
+---
+
+## 🌍 Based In
+
+📍 India
+
+---
+
+## 📫 Connect With Me
+
+- Fiverr: https://www.fiverr.com/aiworkflowlabs
+- GitHub: https://github.com/aiworkflow-labs
+
+---
+
+⭐ Building AI systems that save time and automate business operations.
